@@ -1,8 +1,8 @@
 ﻿using System;
 
-class Calculadora
+class Calculadoraq
 {
-    static void Main(string[] args)
+    static void Main2(string[] args)
     {
         Console.Write("Digite o primeiro número: ");
         string entrada1 = Console.ReadLine();

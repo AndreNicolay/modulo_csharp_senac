@@ -3,7 +3,7 @@
 
 class Aula
 {
-    static void Main()
+    static void Main1()
     {
         Console.WriteLine("Digite seu nome:");
         string nome = Console.ReadLine();

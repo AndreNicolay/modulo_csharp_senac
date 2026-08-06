@@ -2,7 +2,7 @@
 
 class AreaRetangulo
 {
-    static void Main(string[] args)
+    static void Main3(string[] args)
     {
         Console.Write("Digite a base: ");
         string entradaBase = Console.ReadLine();
